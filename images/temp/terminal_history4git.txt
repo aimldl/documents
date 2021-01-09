@@ -1,0 +1,304 @@
+2021-01-09 (토) 08:30 (01th week)
+Welcome to ubuntu20.04, conda 4.9.2, Python 3.8.5
+(base) aimldl@aimldl-desktop:~$ g
+cd /home/aimldl/github/aimldl.github.io
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/coding
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/environments
+git pull
+^C
+(base) aimldl@aimldl-desktop:~/github$ gpull
+cd /home/aimldl/github/aimldl.github.io
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/coding
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/environments
+git pull
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 5 (delta 3), reused 5 (delta 3), pack-reused 0
+오브젝트 묶음 푸는 중: 100% (5/5), 563 bytes | 112.00 KiB/s, 완료.
+https://github.com/aimldl/environments URL에서
+   64dd742..aa8937c  master     -> origin/master
+업데이트 중 64dd742..aa8937c
+Fast-forward
+ ubuntu_linux/bashrc/bash_custom | 7 +++++++
+ 1 file changed, 7 insertions(+)
+cd /home/aimldl/github/pytorch
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tensorflow
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tools
+git pull
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 8 (delta 5), reused 8 (delta 5), pack-reused 0
+오브젝트 묶음 푸는 중: 100% (8/8), 1.99 KiB | 204.00 KiB/s, 완료.
+https://github.com/aimldl/tools URL에서
+   e484d47..faff780  main       -> origin/main
+업데이트 중 e484d47..faff780
+Fast-forward
+ .../push_or_pull_without_password.md}                     | 15 +++++++++++++--
+ 1 file changed, 13 insertions(+), 2 deletions(-)
+ rename git/{Skip_typing_id_pw_on_git_push_pull.md => how_to/push_or_pull_without_password.md} (84%)
+cd /home/aimldl/github/topics_in
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tests
+git pull
+Username for 'https://github.com': ^C
+(base) aimldl@aimldl-desktop:~/github$ git remote set-url origin git@github.com:aimldl/projects.git
+fatal: (현재 폴더 또는 상위 폴더 중 일부가) 깃 저장소가 아닙니다: .git
+(base) aimldl@aimldl-desktop:~/github$ cd tests/
+(base) aimldl@aimldl-desktop:~/github/tests$ git remote set-url origin git@github.com:aimldl/projects.git
+(base) aimldl@aimldl-desktop:~/github/tests$ cd ../projects/
+(base) aimldl@aimldl-desktop:~/github/projects$ git remote set-url origin git@github.com:aimldl/projects.git
+(base) aimldl@aimldl-desktop:~/github/projects$ g
+cd /home/aimldl/github/aimldl.github.io
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/coding
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/environments
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/pytorch
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tensorflow
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tools
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/topics_in
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tests
+git pull
+The authenticity of host 'github.com (15.164.81.167)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,15.164.81.167' (RSA) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: 리모트 저장소에서 읽을 수 없습니다
+
+올바른 접근 권한이 있는지, 그리고 저장소가 있는지
+확인하십시오.
+cd /home/aimldl/github/projects
+git pull
+git@github.com: Permission denied (publickey).
+fatal: 리모트 저장소에서 읽을 수 없습니다
+
+올바른 접근 권한이 있는지, 그리고 저장소가 있는지
+확인하십시오.
+(base) aimldl@aimldl-desktop:~/github$ C
+C: 명령을 찾을 수 없습니다
+(base) aimldl@aimldl-desktop:~/github$ CD
+CD: 명령을 찾을 수 없습니다
+(base) aimldl@aimldl-desktop:~/github$ cd
+(base) aimldl@aimldl-desktop:~$ ll
+합계 244
+drwxr-xr-x 38 aimldl aimldl  4096  1월  9 00:51 ./
+drwxr-xr-x  3 root   root    4096 12월  9 01:01 ../
+-rw-rw-r--  1 aimldl aimldl  1962  1월  9 00:51 .bash_aliases
+-rw-rw-r--  1 aimldl aimldl  3107  1월  9 00:33 .bash_custom
+-rw-------  1 aimldl aimldl 16955  1월  9 00:52 .bash_history
+-rw-r--r--  1 aimldl aimldl   220 12월  9 01:01 .bash_logout
+-rw-r--r--  1 aimldl aimldl  4363  1월  9 00:24 .bashrc
+drwxrwxr-x  3 aimldl aimldl  4096 12월  9 21:51 .bundle/
+drwx------ 23 aimldl aimldl  4096 12월 22 11:40 .cache/
+drwxrwxr-x  2 aimldl aimldl  4096 12월 20 23:10 .conda/
+drwx------ 26 aimldl aimldl  4096  1월  8 23:12 .config/
+drwx------  8 aimldl aimldl  4096  1월  8 23:33 .dropbox/
+drwxrwxr-x  3 aimldl aimldl  4096 12월 16 05:50 .dropbox-dist/
+drwxrwxr-x  3 aimldl aimldl  4096 12월 12 23:29 .gem/
+-rw-rw-r--  1 aimldl aimldl    50 12월  9 21:42 .gitconfig
+drwx------  3 aimldl aimldl  4096  1월  7 00:47 .gnupg/
+drwxr-xr-x  5 aimldl aimldl  4096 12월 20 23:17 .ipython/
+drwxrwxr-x  2 aimldl aimldl  4096  1월  5 11:38 .jupyter/
+drwxrwxr-x  2 aimldl aimldl  4096 12월 31 15:44 .keras/
+drwxrwxr-x  3 aimldl aimldl  4096 12월 18 17:49 .kube/
+drwx------  3 aimldl aimldl  4096 12월  9 01:06 .local/
+drwx------  5 aimldl aimldl  4096 12월  9 01:07 .mozilla/
+drwx------  3 aimldl aimldl  4096 12월  9 01:21 .pki/
+-rw-r--r--  1 aimldl aimldl   807 12월  9 01:01 .profile
+-rw-------  1 aimldl aimldl  1336  1월  7 17:21 .python_history
+drwxrwxr-x  9 aimldl aimldl  4096 12월 13 21:58 .ruby/
+drwx------  2 aimldl aimldl  4096  1월  9 08:34 .ssh/
+-rw-r--r--  1 aimldl aimldl     0 12월  9 01:08 .sudo_as_admin_successful
+-rw-------  1 aimldl aimldl 17245 12월 18 09:44 .viminfo
+-rw-rw-r--  1 aimldl aimldl   284 12월 21 15:00 .wget-hsts
+drwx------  8 aimldl aimldl  4096  1월  8 23:27 .zoom/
+drwxr-xr-x  6 aimldl aimldl  4096 12월 18 18:17 AUTO_INSTALL/
+drwxr-xr-x  3 aimldl aimldl  4096 12월 18 09:44 CUSTOM_INSTALL/
+drwxrwxr-x  3 aimldl aimldl  4096 12월 21 17:51 Documents/
+drwx------ 30 aimldl aimldl  4096  1월  8 23:33 Dropbox/
+drwxr-xr-x  5 aimldl aimldl  4096 12월 10 07:43 _k8s_kubeflow_installation/
+drwxrwxr-x 27 aimldl aimldl  4096 12월 20 23:10 anaconda3/
+drwxrwxr-x 11 aimldl aimldl  4096 12월 15 21:47 github/
+drwxrwxr-x  3 aimldl aimldl  4096 12월 21 01:40 nltk_data/
+drwxrwxr-x 11 aimldl aimldl  4096 12월 21 02:16 py-googletrans/
+drwxr-xr-x  4 aimldl aimldl  4096 12월 21 17:58 snap/
+-rw-rw-r--  1 aimldl aimldl 10294  1월  7 11:43 table_of_contents-building_machine_learning_pipelines.txt
+drwxr-xr-x  2 aimldl aimldl  4096 12월  9 01:06 공개/
+drwxr-xr-x  2 aimldl aimldl  4096  1월  7 11:44 다운로드/
+drwxr-xr-x  3 aimldl aimldl  4096 12월 31 13:04 문서/
+drwxr-xr-x  2 aimldl aimldl  4096  1월  7 22:55 바탕화면/
+drwxr-xr-x  2 aimldl aimldl  4096 12월  9 01:06 비디오/
+drwxr-xr-x  2 aimldl aimldl  4096  1월  9 08:41 사진/
+drwxr-xr-x  2 aimldl aimldl  4096 12월  9 01:06 음악/
+drwxr-xr-x  2 aimldl aimldl  4096 12월  9 01:06 템플릿/
+(base) aimldl@aimldl-desktop:~$ cd .ssh
+(base) aimldl@aimldl-desktop:~/.ssh$ l
+known_hosts
+(base) aimldl@aimldl-desktop:~/.ssh$ cat known_hosts 
+|1|dqus006ybWk9mEjf/hng9PcfBew=|XJHI05QWNKeeJ5fkUvvmIMiJ/Oo= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+|1|+Q203VmxnqEsPkWqKooiSVavIQo=|RN18M9OnedCNshSG2250nh6KXy4= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+(base) aimldl@aimldl-desktop:~/.ssh$ n
+(base) aimldl@aimldl-desktop:~/.ssh$ n id_rsa.pub
+(base) aimldl@aimldl-desktop:~/.ssh$ cat id_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDQe0y39d21bINOl5xqMDqy1DN8B61yXYF+upo1qCdleZ2sCzayxbSvELDGKlfoltY5Z+hKdz07tq7BGEs4mjEUL0MCzdqU7Kdnqt4Bb5L/qevLDpTpLDhVcpJE70wmx+Zn6gpJkFuNUpO4ewBcNrB1v5zingkLzb8cUN2qEnN8KkHFOxeEkfQa4NDubqls+PHAnqdorSCUAcoXz7XrGbkmE3DJvHJ6lDMz9bFPUgMkVhp2lY96mzkN/yoiodhIZkxqmFoBk/yu0thNqYDIgK/ihNRnClR+4g8o6Mtfh/AxnIjmEw5SBMCxZ/IDrG4Es++1oyZppmimj/IrB/kt0XKFWzaEQnh7itq6S4TGbbweH7Co2ySlDpz5QzO2sjHdidW0pO9xc+YW7e0GaRKfXxDAnrStjuRFA/7m29ktkDRZqcRoNatJcSQftZ+RSLlCAVjodK2a1VPxE2xJjWnSQ0BQvw2T+0j+k1+9U2QkOCTJTU+UqE8A6DvsjcJiRjKmGWM= aimldl@aimldl-homelaptop
+(base) aimldl@aimldl-desktop:~/.ssh$ cd
+(base) aimldl@aimldl-desktop:~$ g
+cd /home/aimldl/github/aimldl.github.io
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/coding
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/environments
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/pytorch
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tensorflow
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tools
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/topics_in
+git pull
+이미 업데이트 상태입니다.
+cd /home/aimldl/github/tests
+git pull
+git@github.com: Permission denied (publickey).
+fatal: 리모트 저장소에서 읽을 수 없습니다
+
+올바른 접근 권한이 있는지, 그리고 저장소가 있는지
+확인하십시오.
+cd /home/aimldl/github/projects
+git pull
+git@github.com: Permission denied (publickey).
+fatal: 리모트 저장소에서 읽을 수 없습니다
+
+올바른 접근 권한이 있는지, 그리고 저장소가 있는지
+확인하십시오.
+(base) aimldl@aimldl-desktop:~/github$ 
+(base) aimldl@aimldl-desktop:~/github$ alias
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+alias c='conda activate'
+alias ca='conda activate'
+alias cdd='conda deactivate'
+alias ce='conda info -e'
+alias ci='conda install'
+alias d='~/.dropbox-dist/dropboxd'
+alias dropbox='~/.dropbox-dist/dropboxd'
+alias e='egrep -n'
+alias egrep='egrep --color=auto'
+alias f='find . -name'
+alias fgrep='fgrep --color=auto'
+alias g='cd ~/github/ && ./batch_git_pull && ./batch_git_push'
+alias ggit='cd ~/github/ && ./batch_git_pull && ./batch_git_push'
+alias gpull='cd ~/github/ && ./batch_git_pull'
+alias gpush='cd ~/github/ && ./batch_git_push'
+alias grep='grep --color=auto'
+alias h='history'
+alias j='jupyter notebook'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+alias m='more'
+alias n='nano'
+alias p='pwd'
+alias s='find . -name '\''*.py'\''|xargs egrep -i -n '
+alias search='find . -name '\''*.py'\''|xargs egrep -i -n '
+alias t='tree'
+alias td='tree -d'
+alias tdl='tree -d -L'
+(base) aimldl@aimldl-desktop:~/github$ cat batch_git_pull
+#!/bin/bash
+# batch_git_pull
+#   This script runs `git pull` for all sub-directories of the target repositories.
+#
+# * Rev.5: 2020-12-15 (Tue)
+# * Rev.4: 2020-12-09 (Wed)
+# * Rev.3: 2020-11-14 (Sat)
+# * Rev.2: 2020-03-01 (Sun)
+# * Draft: 2019-11-11 (Mon)
+#
+# Prerequisites
+#   * Understanding of the basic git commands (clone, pull, and push).
+#   * The target repositories must be cloned first with the 'git clone' command.
+#
+# Usage
+#   $ chmod +x batch_git_pull
+#   $ ./batch_git_pull
+#
+# Doing it manually
+#   You have a Github user ID 'your_id' and 
+#       want to clone everything in your repository "my_repository".
+#     $ cd ~/github/
+#     $ cd my_repository/
+#     $ git pull
+#
+# How to customize this script for yourself
+#   Change the list of target_repositories to YOUR target repositories.
+#   Say your target repositories are:
+#     https://github.com/your_id/my_repository_1
+#     https://github.com/your_id/my_repository_2
+#       ...
+#     https://github.com/your_id/my_repository_n
+#   Change the list to:
+#     target_repositories="my_repository_1 my_repository_2 ... my_repository_n"
+#   Note each value is delimited by a white space.
+
+# You may change this part
+target_repositories="aimldl.github.io coding environments pytorch tensorflow tools topics_in tests projects"
+# You may change this part
+
+# Don't change this part
+print_and_run() {
+  COMMAND=$1
+  echo $COMMAND
+  eval $COMMAND
+}
+
+dir_root=${PWD}
+for repository in ${target_repositories}; do
+  print_and_run "cd ${dir_root}/${repository}"  # cd to the repository's directory
+  print_and_run "git pull"                      # pull from the repository
+done
+# Don't change this part
+(base) aimldl@aimldl-desktop:~/github$ git remote set-url origin https://github.com/aimldl/tests.git
+fatal: (현재 폴더 또는 상위 폴더 중 일부가) 깃 저장소가 아닙니다: .git
+(base) aimldl@aimldl-desktop:~/github$ cd tests/
+(base) aimldl@aimldl-desktop:~/github/tests$ git remote set-url origin https://github.com/aimldl/tests.git
+(base) aimldl@aimldl-desktop:~/github/tests$ cd ../projects/
+(base) aimldl@aimldl-desktop:~/github/projects$ git remote set-url origin https://github.com/aimldl/projects.git
+(base) aimldl@aimldl-desktop:~/github/projects$ 
+
+
