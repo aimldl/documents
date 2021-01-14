@@ -2,6 +2,26 @@
 
 # Neural Processing Unit (NPU)
 
+
+
+ETRI, CES 2021에서 인공지능 칩, 홀로그램, 센서 등 미래 선도형 기술 소개한다
+
+- 인공지능 반도체 기술은 인공지능 알고리즘의 복잡한 연산 처리에 최적화된 칩 개발 기술
+- ETRI의 AI칩은 40테라플롭스(TFLOPS) 연산 능력으로 전력 소모는 15와트(W)에 불과
+- 기존 GPU칩 대비 고성능과 저전력, 두 마리 토끼를 다 잡은 기술로 평가
+- http://www.aitimes.kr/news/articleView.html?idxno=18901
+
+
+
+텐서플로우에서 파이토치로··· 기업 3곳의 이유 있는 전환
+
+- 오픈소스 딥러닝 프레임워크는 텐서플로우가 학계/기업 모두 가장 인기 있지만, 파이토치가 빠른 속도로 따라잡고 있음
+- 페이스북 AI의 조 스피삭은 기업의 파이토치 도입을 위해서 해야 할 일이 여전히 많다고 함
+- 라이프사이클 관리, ML옵스, 쿠브플로우 파이프라인을 중심 커뮤니티가 활성화가 필요
+- https://www.ciokorea.com/interview/174784
+
+https://www.ciokorea.com/interview/174784
+
 ## AI의 뇌, 신경망 가속칩이 뜬다
 
 - 신경망 가속칩(Neural Processing Unit/Neural Processor)은 AI 처리에 특화된 연산을 CPU보다 훨씬 바르게 수행하며, 전력소모가 적음
