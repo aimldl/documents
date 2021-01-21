@@ -12,9 +12,9 @@
   * 작업 환경/검사 기준 수치 변경 시 장비를 새로 세팅해야 하는 번거로움이 있음
   * 다양한 불량 유형/비정형 형태의 불량 유형에서 검사의 정확도가 떨어짐
 
-<img src="/home/aimldl/github/topics_in/news/images/aitimes_kr-smart_factory-learning_process.jpg">
+<img src="images/aitimes_kr-smart_factory-learning_process.jpg">
 
-<img src="/home/aimldl/github/topics_in/news/images/aitimes_kr-smart_factory-moai_example-tire_inspection.jpg">
+<img src="images/aitimes_kr-smart_factory-moai_example-tire_inspection.jpg">
 
 * 일반적으로 딥러닝 모델을 학습하기 위해서는 일정 수준 이상의 양품과 불량품의 이미지가 필요
 
