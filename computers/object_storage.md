@@ -6,8 +6,6 @@
 >
 > Object storage systems allow retention of massive amounts of [unstructured data](https://en.wikipedia.org/wiki/Unstructured_data). Object storage is used for purposes such as storing photos on [Facebook](https://en.wikipedia.org/wiki/Facebook) (Haystack), songs on [Spotify](https://en.wikipedia.org/wiki/Spotify), or files in online collaboration services, such as [Dropbox](https://en.wikipedia.org/wiki/Dropbox_(service)).[[3\]](https://en.wikipedia.org/wiki/Object_storage#cite_note-3)
 
-
-
 > ## Implementation
 >
 > ### [Cloud storage](https://en.wikipedia.org/wiki/Cloud_storage)
@@ -41,3 +39,31 @@
 > ### Object-based storage devices
 >
 > Object storage at the protocol and device layer was proposed 20 years ago[*[ambiguous](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify)*] and approved for the [SCSI](https://en.wikipedia.org/wiki/SCSI) command set nearly 10 years ago[*[ambiguous](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify)*] as "Object-based Storage Device Commands" (OSD),[[17\]](https://en.wikipedia.org/wiki/Object_storage#cite_note-17) however, it had not been put into production until the development of the Seagate Kinetic Open Storage platform.[[18\]](https://en.wikipedia.org/wiki/Object_storage#cite_note-18)[[19\]](https://en.wikipedia.org/wiki/Object_storage#cite_note-19) The [SCSI](https://en.wikipedia.org/wiki/SCSI) command set for Object Storage Devices was developed by a working group of the SNIA for the T10 committee of the [International Committee for Information Technology Standards](https://en.wikipedia.org/wiki/International_Committee_for_Information_Technology_Standards) (INCITS).[[20\]](https://en.wikipedia.org/wiki/Object_storage#cite_note-20) T10 is responsible for all SCSI standards.
+
+## [MinIO](https://en.wikipedia.org/wiki/MinIO)
+
+
+
+
+
+> **MinIO** is an [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3) compatible server-side software storage stack, it can handle unstructured data such as photos, videos, log files, backups, and container images with currently the maximum supported object size of 5TB.
+>
+> ## Architecture
+>
+> MinIO storage stack has three major components: **MinIO Server**, **MinIO Client** (a.k.a. `mc`, which is a desktop client for the file management with an [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3) compatible servers), and **MinIO Client SDK** that can be used by application developers to interact with an [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3) compatible server.
+>
+> ### MinIO Server
+>
+> MinIO [cloud storage](https://en.wikipedia.org/wiki/Cloud_storage) server is designed to be minimal and scalable. It is light enough to be bundled along with the application stack, similar to [NodeJS](https://en.wikipedia.org/wiki/NodeJS), and [Redis](https://en.wikipedia.org/wiki/Redis).
+>
+> Designed for high performance, [peta](https://en.wikipedia.org/wiki/Petabyte) scale workloads[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)*], MinIO offers a suite of features that are specific to large [enterprise deployments](https://en.wikipedia.org/wiki/Enterprise_resource_planning), these include [erasure coding](https://en.wikipedia.org/wiki/Erasure_coding), [bitrot](https://en.wikipedia.org/wiki/Data_degradation) protection, [encryption](https://en.wikipedia.org/wiki/Encryption)/[WORM](https://en.wikipedia.org/wiki/Write_once_read_many), [identity management](https://en.wikipedia.org/wiki/Identity_management), continuous [replication](https://en.wikipedia.org/wiki/Replication_(computing)), global federation, and multi-cloud deployments via gateway mode.
+>
+> MinIO server is hardware [agnostic](https://en.wikipedia.org/wiki/Agnostic), it can be installed on physical or virtual machines or launched as [Docker](https://en.wikipedia.org/wiki/Docker_(software)) containers and deployed on container orchestration platforms like [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes),[[4\]](https://en.wikipedia.org/wiki/MinIO#cite_note-4) [Mesosphere](https://en.wikipedia.org/wiki/Mesosphere_(software)), and Docker Swarm.[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)*]
+>
+> ### MinIO Client
+>
+> MinIO Client (`mc`) provides an alternative to the standard UNIX commands (e.g. `ls`, `cat`, `cp`, `mirror`, `diff`, etc) adding support for an [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3) compatible cloud storage services (AWS Signature v2 and v4).[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)*] It works on [Linux](https://en.wikipedia.org/wiki/Linux), [Mac](https://en.wikipedia.org/wiki/MacOS) and [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) platforms.[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)*]
+>
+> ### MinIO Client SDK
+>
+> MinIO Client SDK provides an [API](https://en.wikipedia.org/wiki/Application_programming_interface) to access any [Amazon S3](https://en.wikipedia.org/wiki/Amazon_S3) compatible object storage server.[[5\]](https://en.wikipedia.org/wiki/MinIO#cite_note-5) Language bindings are available for [Go](https://en.wikipedia.org/wiki/Go_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), and languages hosted on top of the [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework).
