@@ -6,6 +6,8 @@
 
 <img src='images/wacom_intuos-getting_started-how_to_use_it.png'>
 
+<img src='images/wacom_intuos-getting_started-wacom_desktop_center.png'>
+
 ## `Wacom Intuos 설치 마법사` 내용
 <img src='images/watcom_intuos-installation_wizard-1.png'>
 
