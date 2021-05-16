@@ -11,7 +11,7 @@
 <img src='images/naver_search-watcom-result.png'>
 
 * [한국 와콤공식 홈페이지](https://wacomkoreablog.com/?n_media=27758&n_query=WACOM&n_rank=1&n_ad_group=grp-a001-04-000000018112161&n_ad=nad-a001-04-000000132935464&n_keyword_id=nkw-a001-04-000003266985323&n_keyword=WACOM&n_campaign_type=4&n_contract=tct-a001-04-000000000371121&n_ad_group_type=5) > [드라이버 다운로드](https://www.wacom.com/ko-kr/support/product-support/drivers)에서 제품명을 검색합니다.
-* 검색창에 `intuos ctl`를 입력한 후 해당 모델을 클릭하면 손쉽게 드라이버를 찾을 수 있습니다.
+  * 검색창에 `intuos ctl`를 입력한 후 해당 모델을 클릭하면 손쉽게 드라이버를 찾을 수 있습니다.
 
 <img src='images/watcom_intuos-m_bt_2018-ctl-6100wl-driver_download-1.png'>
 
@@ -34,4 +34,9 @@
 
 <img src='images/win10-control_panel-watcom.png'>
 
-* 컴퓨터를 재시작한 후 로그인하면 
+* 컴퓨터를 재시작합니다.
+  * 로그인하면 `Watcom Intuos 설치 마법사`가 `Welcome Intuos` 페이지를 자동으로 런칭합니다.
+
+<img src='images/watcom_intuos-after_reboot-welcome-1.png'>
+
+드라이버의 설치가 완료 되었습니다. `Welcome Intuos` 페이지를 따라 사용법과 블루투스 설정법을 배워봅니다.
