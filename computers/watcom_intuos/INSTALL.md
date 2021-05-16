@@ -4,10 +4,13 @@
 
 * 장치의 올바른 작동을 위해 장치 드라이버가 설치되어야 합니다. 
 * 이 페이지에서는 장치 드라이버의 다운로드 및 (윈도우즈용) 설치에 대해 설명합니다.
+  * [Wacom Intuos 시작하기](https://www.wacom.com/ko-kr/getting-started/wacom-intuos)에 소개된 설치단계입니다.
+
+<img src='images/wacom_intuos-getting_started-installation_steps.png'>
 
 ## 장치 드라이버 다운로드/설치 방법
 
-네이버로 `watcom`을 검색하면 한국 와콤공색 홈페이지를 찾을 수 있습니다.
+네이버로 `wacom`을 검색하면 한국 와콤공색 홈페이지를 찾을 수 있습니다.
 <img src='images/naver_search-watcom-result.png'>
 
 * [한국 와콤공식 홈페이지](https://wacomkoreablog.com/?n_media=27758&n_query=WACOM&n_rank=1&n_ad_group=grp-a001-04-000000018112161&n_ad=nad-a001-04-000000132935464&n_keyword_id=nkw-a001-04-000003266985323&n_keyword=WACOM&n_campaign_type=4&n_contract=tct-a001-04-000000000371121&n_ad_group_type=5) > [드라이버 다운로드](https://www.wacom.com/ko-kr/support/product-support/drivers)에서 제품명을 검색합니다.
