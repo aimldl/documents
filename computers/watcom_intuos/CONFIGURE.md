@@ -25,10 +25,9 @@
 <img src='images/win10-control_panel-devices-add_device.png'>
 
 ### 문제 발생
-
+* 아래처럼 블루투스 페어링이 되지 않습니다.
 <img src='images/win10-control_panel-devices-add_device-cannot_connect.png'>
 
-<img src='images/'>
-<img src='images/'>
-<img src='images/'>
-<img src='images/'>
+* 페어링하려는 컴퓨터에 블루투스가 있는지 확인이 필요합니다.
+  * 블루투스 장치가 컴퓨터에 이미 설치되어 있지 않는 경우엔 페어링할 수 없습니다.
+  * 만약 없는데 블루투스로 연결해서 사용하려면, 블루투스 동글을 별도 구매해서 컴퓨터에 설치하는 방법도 있습니다.
