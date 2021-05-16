@@ -10,7 +10,7 @@
 <img src='images/watcom_intuos-getting_started-1.png'>
 
 
-의 블루투스 부분의 내용입니다.
+의 블루투스 관련 내용입니다.
 
 <img src='images/watcom_intuos-bluetooth_pairing-steps.png'>
 
