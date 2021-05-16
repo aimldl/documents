@@ -26,8 +26,12 @@
 
 * `다운로드를 확인하십시오`를 클릭하면 설치파일이 다운로드 됩니다. 
   * 설치파일의 예 `WacomTablet_6.3.42-2.exe`
-* 다운로드된 파일을 실행해서 설치마법사에 따라 설치합니다.
+* 다운로드된 파일을 실행해서 설치마법사에 따라 설치합니다. 설치가 잘 되면 아래처럼 `성공`을 알려줍니다.
 
 <img src='images/watcom_intuos-m_bt_2018-ctl-6100wl-driver_install-success.png'>
 
-* 컴퓨터를 재시작합니다.
+* (재부팅도 안 했는데) 설정판에는 다음처럼 `Intuos BT M`이 추가되었음을 알 수 있습니다. 
+
+<img src='images/win10-control_panel-watcom.png'>
+
+* 컴퓨터를 재시작한 후 로그인하면 
