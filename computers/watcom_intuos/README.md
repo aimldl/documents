@@ -1,6 +1,6 @@
 * Draft: 2021-05-16 (Sun)
 
-# Watcom Intuos
+# Wacom Intuos
 
 * [Wacom Intuos 시작하기](https://www.wacom.com/ko-kr/getting-started/wacom-intuos)에 가면 기기 설정 및 기본 사용법이 정리되어 있습니다.
 
