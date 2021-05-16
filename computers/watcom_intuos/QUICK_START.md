@@ -32,5 +32,3 @@
 <img src='images/watcom_intuos-installation_wizard-6.png'>
 
 <img src='images/watcom_intuos-installation_wizard-7.png'>
-
-<img src='images/'>
