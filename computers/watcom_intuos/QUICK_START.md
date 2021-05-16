@@ -6,7 +6,14 @@
 
 <img src='images/wacom_intuos-getting_started-how_to_use_it.png'>
 
+### Wacon Desktop Cente
+* Wacon Desktop Center는 드라이버 설치 시 같이 설치됩니다.
+
+<img src='images/wacom_intuos-getting_started-wacom_desktop_center-win10.png'>
+
 <img src='images/wacom_intuos-getting_started-wacom_desktop_center.png'>
+
+
 
 ## `Wacom Intuos 설치 마법사` 내용
 <img src='images/watcom_intuos-installation_wizard-1.png'>
