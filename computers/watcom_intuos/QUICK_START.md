@@ -6,6 +6,8 @@
 
 <img src='images/wacom_intuos-getting_started-how_to_use_it.png'>
 
+<img src='images/wacom_intuos-getting_started-overview.png'>
+
 ### Wacon Desktop Center
 <img src='images/wacom_intuos-getting_started-wacom_desktop_center.png'>
 
