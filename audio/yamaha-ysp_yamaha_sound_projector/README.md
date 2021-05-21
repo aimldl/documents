@@ -28,6 +28,12 @@
 
 <img src='images/ysp-5100-accessories-4.png'>
 
+<img src='images/ysp-5100-accessories-5.png'>
+
+<img src='images/ysp-5100-accessories-6.png'>
+
+<img src='images/ysp-5100-accessories-7.png'>
+
 <img src='images/'>
 
 <img src='images/'>
