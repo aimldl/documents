@@ -21,8 +21,13 @@
 > 야마하 YSP-1600 이하는 그게 그거다라는 느낌의 글을 접하게 되었습니다. 검색해보니 1600 > 2500 > 3300 > 4600 > 5100 > 5600 점점 높은 숫자들이 보이기 시작하며, 사진상으로 거대해지는 무언가의 포스가 느껴지더군요.
 
 ## YSP-5100
+* [Product page (Yamaha Europe)](https://europe.yamaha.com/en/products/audio_visual/sound_bar/ysp-5100/downloads.html)
+  * [Owner's Manual](https://europe.yamaha.com/files/download/other_assets/5/314405/YSP-5100_4100_om_en2-1.pdf)
+  * [Additional Information](https://europe.yamaha.com/files/download/other_assets/1/321381/YSP4100_5100_Additional_Information.pdf)
 * [Yamaha YSP-5100, YSP-4100 Reference guide](https://manualzz.com/doc/50950913/yamaha-ysp-5100-quick-reference-guide)
 * [Yamaha YSP-5100 Product Broshure)(https://au.yamaha.com/files/download/other_assets/9/317769/YSP-5100_NPB.pdf)
+
+
 
 <img src='images/ysp-5100-1.png'>
 
