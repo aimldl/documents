@@ -111,6 +111,6 @@ Yamaha's latest Digital Sound Projector provides many new great features like HD
 
 <img src='images/ysp-5100-accessories-8.png'>
 
-### Owner's Manual
+### [Owner's Manual](https://europe.yamaha.com/files/download/other_assets/5/314405/YSP-5100_4100_om_en2-1.pdf)
 
 <img src='images/ysp-5100-owners_manual-1.png'>
