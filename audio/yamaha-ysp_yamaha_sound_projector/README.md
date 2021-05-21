@@ -88,6 +88,13 @@ Yamaha's latest Digital Sound Projector provides many new great features like HD
 <img src='images/ysp-5100-6.png'>
 
 ### Accesories
+#### [Wireless Subwoofer Kit SWK-W10](https://europe.yamaha.com/en/products/audio_visual/accessories/swk-w10/index.html)
+> You can use your AirWired compatible products with an subwoofer without having to connect any cables. The AirWired link transmits uncompressed data (linear PCM) so there is no loss of signal data, unlike systems that use Bluetooth technology to send compressed data. This ensures maximum sound quality.
+> 
+> * Uses lossless (uncompressed) signal transmission to achieve wireless sound quality
+> * Automatic Power on/off
+> * [$149.95 (Discontinued)](http://www.thrillingaudio.com/Yamaha_SWK_W10_Accessory_p/yamaha%20swk-w10.htm)
+
 <img src='images/ysp-5100-accessories-1.png'>
 
 <img src='images/ysp-5100-accessories-2.png'>
