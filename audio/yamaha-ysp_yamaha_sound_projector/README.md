@@ -98,7 +98,6 @@ Yamaha's latest Digital Sound Projector provides many new great features like HD
 
 <img src='images/ysp-5100-accessories-4.png'>
 
-<img src='images/ysp-5100-accessories-5.png'>
 
 > * [$149.95 (Discontinued)](http://www.thrillingaudio.com/Yamaha_SWK_W10_Accessory_p/yamaha%20swk-w10.htm)
 
@@ -110,6 +109,7 @@ Yamaha's latest Digital Sound Projector provides many new great features like HD
 
 <img src='images/ysp-5100-accessories-2.png'>
 
+<img src='images/ysp-5100-accessories-5.png'>
 
 <img src='images/ysp-5100-accessories-6.png'>
 
