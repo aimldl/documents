@@ -93,13 +93,16 @@ Yamaha's latest Digital Sound Projector provides many new great features like HD
 > 
 > * Uses lossless (uncompressed) signal transmission to achieve wireless sound quality
 > * Automatic Power on/off
+
+<img src='images/ysp-5100-accessories-3.png'>
+
 > * [$149.95 (Discontinued)](http://www.thrillingaudio.com/Yamaha_SWK_W10_Accessory_p/yamaha%20swk-w10.htm)
+
+<img src='images/ysp-5100-accessories-8.png'>
 
 <img src='images/ysp-5100-accessories-1.png'>
 
 <img src='images/ysp-5100-accessories-2.png'>
-
-<img src='images/ysp-5100-accessories-3.png'>
 
 <img src='images/ysp-5100-accessories-4.png'>
 
@@ -108,8 +111,6 @@ Yamaha's latest Digital Sound Projector provides many new great features like HD
 <img src='images/ysp-5100-accessories-6.png'>
 
 <img src='images/ysp-5100-accessories-7.png'>
-
-<img src='images/ysp-5100-accessories-8.png'>
 
 ### [Owner's Manual](https://europe.yamaha.com/files/download/other_assets/5/314405/YSP-5100_4100_om_en2-1.pdf)
 
