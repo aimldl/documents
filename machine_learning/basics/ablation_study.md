@@ -43,6 +43,3 @@ TO-READ
 * Ablation Study > Overview, http://www.cs.ubc.ca/labs/beta/Projects/Ablation/
 * [In the context of deep learning, what is an ablation study?](https://www.quora.com/In-the-context-of-deep-learning-what-is-an-ablation-study#:~:text=An%20ablation%20study%20is%20where,important%20for%20human%20image%20recognition.), Quora
 * [ablation study가 뭐냐 대체?](https://study-grow.tistory.com/37)
-
-
-

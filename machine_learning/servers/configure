@@ -1,6 +1,0 @@
-#!/bin/bash
-# configure
-
-
-ln -s /home/ubuntu/github/VOX/servers/data_collection_server ~/data_collection_server
-
