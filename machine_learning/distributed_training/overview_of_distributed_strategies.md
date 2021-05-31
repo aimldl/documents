@@ -1,3 +1,4 @@
+* Rev.1: 2021-05-31 (Mon)
 * Draft: 2020-06-15 (Mon)
 
 # Overview of Distributed Strategies
