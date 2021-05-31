@@ -1,6 +1,11 @@
 * Rev.1: 2021-05-31 (Mon)
 * Draft: 2020-06-15 (Mon)
 
+# Using Multiple GPUs in Tensorflow
+* [Using Multiple GPUs in Tensorflow](https://youtu.be/Mv7qCM3eprs) [48:25]
+  * Presentation at NextAK 2019
+  * Leveraging HPC to Accelerate Machine Learning, Weiguan Guan, SHARCNet/CC, guanw@sharcnet.ca
+
 # Overview of Distributed Strategies
 
 <img src='images/overview_of_distributed_strategies-1.png'>
@@ -15,14 +20,5 @@
 
 <img src='images/overview_of_distributed_strategies-6.png'>
 
-* [Using Multiple GPUs in Tensorflow](https://youtu.be/Mv7qCM3eprs) [48:25]
-  * Presentation at NextAK 2019
-  * Leveraging HPC to Accelerate Machine Learning, Weiguan Guan, SHARCNet/CC, guanw@sharcnet.ca
 
-* [Distributed TensorFlow (TensorFlow Dev Summit 2018)](https://youtu.be/-h0cWBiQ8s8) [12:08]
-  * Presentation at TensorFlow Dev Summit 2018
-  * Distributed TensorFlow, Igor Saprykin, Software Engineer
 
-* [Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)](https://youtu.be/6ovfZW8pepo) [16:14]
-  * Presentation at TensorFlow Dev Summit 2020
-  * Scaling TensorFlow 2 models to multi-worker GPUs, Zongwei Zhou
