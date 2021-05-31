@@ -8,17 +8,28 @@
 
 # Overview of Distributed Strategies
 
-<img src='images/overview_of_distributed_strategies-1.png'>
+<img src='images/overview_of_distributed_strategies (1).png'>
 
-<img src='images/overview_of_distributed_strategies-2.png'>
+<img src='images/overview_of_distributed_strategies (2).png'>
 
-<img src='images/overview_of_distributed_strategies-3.png'>
+<img src='images/overview_of_distributed_strategies (3).png'>
 
-<img src='images/overview_of_distributed_strategies-4.png'>
+<img src='images/overview_of_distributed_strategies (4).png'>
 
-<img src='images/overview_of_distributed_strategies-5.png'>
+<img src='images/overview_of_distributed_strategies (5).png'>
 
-<img src='images/overview_of_distributed_strategies-6.png'>
+<img src='images/overview_of_distributed_strategies (6).png'>
 
+<img src='images/overview_of_distributed_strategies (7).png'>
 
+<img src='images/overview_of_distributed_strategies (8).png'>
 
+<img src='images/overview_of_distributed_strategies (9).png'>
+
+<img src='images/overview_of_distributed_strategies (10).png'>
+
+<img src='images/overview_of_distributed_strategies (11).png'>
+
+<img src='images/overview_of_distributed_strategies (12).png'>
+
+<img src='images/overview_of_distributed_strategies (13).png'>
